@@ -12,4 +12,4 @@ npm run start
 - url: {ip}:{port}/upload/
 - port: process.env.PORT | 3000
 - method: POST
-- field name: thumnail
+- field name: thumbnail
