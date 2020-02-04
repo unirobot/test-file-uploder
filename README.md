@@ -4,6 +4,7 @@ Uploaded data is placed directly under the uploads folder.
 
 ## Run
 ```
+npm i
 npm run start
 ```
 
